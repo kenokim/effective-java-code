@@ -1,0 +1,3 @@
+Java 8 이후 등장한 interface default, public static method,
+Java 9 이후 interface private static method 를 통해 다양한 기능이 추가되었고
+많은 추상클래스 들이 deprecated 되었다. Helper, utility 클래스를 일부 대체하였다.
